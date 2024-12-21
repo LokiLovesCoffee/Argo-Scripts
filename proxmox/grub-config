@@ -1,0 +1,1 @@
+pcie_asmp=off intel_iommu=on iommu=on notsc clocksource=acpi_pm
